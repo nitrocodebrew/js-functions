@@ -13,7 +13,7 @@ function capitalize(input_str) {
 }
 
 function lastLetter(input_str) {
-    console.log(input_str[input_str.length]);
+    console.log(input_str[input_str.length-1]);
 }
 
 // INVOKE FUNCTIONS

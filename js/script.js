@@ -17,7 +17,7 @@ function lastLetter(input_str) {
 }
 
 // INVOKE FUNCTIONS
-addNum(7); // Should be 17
+add7(7); // Should be 17
 multiply(3, 2); // Should be 6
 
 ////

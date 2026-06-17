@@ -16,3 +16,17 @@ function lastLetter(input_str) {
     console.log(input_str[(input_str.length - 1)]);
 }
 
+// INVOKE FUNCTIONS
+addNum(7); // Should be 17
+multiply(3, 2); // Should be 6
+
+////
+// All results should be 'Abcd'
+///
+capitalize('ABCD');
+capitalize('Abcd');
+capitalize('aBcD');
+
+lastLetter('abcd'); // Should be 'd'
+
+
